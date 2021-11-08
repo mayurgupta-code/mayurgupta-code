@@ -1,6 +1,6 @@
-### Hi there,  can you call me Debs!
+### Hi there,   you can call me Mayur!
  
--I'm developer fullstack Java
+-I'm developer Django-React fullstack Developer with a pinch salt of ML!
 
  <div>
   <a href="https://github.com/mayurgupta-code">
